@@ -7,7 +7,7 @@ import java.util.Iterator;
 import java.util.Scanner;
 
 /**
- * @author sumit kumar
+ * @author rahul_kaithwas
  * @code 02-18
  *
  */

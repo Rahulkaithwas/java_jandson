@@ -1,10 +1,8 @@
 package day1to2;
 
 import java.util.Scanner;
-
 /**
- * @author sumit kumar
- * @code 02-11
+ * @author rahul_kaithwas
  *
  */
 public class DayOfWeek2 {

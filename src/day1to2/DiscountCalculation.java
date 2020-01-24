@@ -4,10 +4,7 @@ import java.util.Scanner;
 
 public class DiscountCalculation {
 
-	/**
-	 * @author sumit kumar
-	 * @code 02-10
-	 */
+
 	public static void main(String[] args) {
 		float price1=0,price2=0;
 		int discount=0;

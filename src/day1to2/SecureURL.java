@@ -2,11 +2,6 @@ package day1to2;
 
 import java.util.Scanner;
 
-/**
- * @author SUMIT KUMAR
- * @code 02-11
- *
- */
 public class SecureURL {
 
 	public static void main(String[] args) {

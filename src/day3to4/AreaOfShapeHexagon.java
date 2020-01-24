@@ -32,7 +32,6 @@ public class AreaOfShapeHexagon {
 		
 		}else {
 			System.out.println("Enter side: ");
-			int side=sc.nextInt();
 			System.out.println("Area of Hexagon is: 0.00");
 		}
 		sc.close();

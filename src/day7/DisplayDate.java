@@ -6,7 +6,7 @@ import java.util.Locale;
 import java.util.Scanner;
 
 /**
- * @author 841423
+ * @author rahul_kaithwas
  *
  */
 public class DisplayDate {

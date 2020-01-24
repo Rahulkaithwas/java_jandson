@@ -3,8 +3,7 @@ package day3to4;
 import java.util.Scanner;
 
 /**
- * @author sumit kumar
- * @code 02-15
+ * @author rahul_kaithwas
  *
  */
 interface IPlayerStatistics{

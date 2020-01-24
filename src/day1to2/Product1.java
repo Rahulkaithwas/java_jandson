@@ -2,11 +2,7 @@ package day1to2;
 
 import java.util.Scanner;
 
-/**
- * @author sumit kumar
- * @code 02-12
- * using getters and setters
-*/
+
 public class Product1 {
 	public static void main(String[] args) {
 		Product p=new Product();

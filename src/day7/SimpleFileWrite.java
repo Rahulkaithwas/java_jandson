@@ -5,7 +5,7 @@ import java.io.FileWriter;
 import java.util.Scanner;
 
 /**
- * @author 841423
+ * @author rahul_kaithwas
  *
  */
 public class SimpleFileWrite {

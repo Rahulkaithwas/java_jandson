@@ -8,7 +8,10 @@ import java.util.Map;
  *
  */
 import java.util.Scanner;
-
+/**
+ * @author rahul_kaithwas
+ *
+ */
 public class MaxScorer {
 
 	public static void main(String[] args) {

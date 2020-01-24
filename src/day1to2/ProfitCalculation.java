@@ -1,8 +1,7 @@
 package day1to2;
-
 /**
- * @author sumit kumar
- * @code 02-09
+ * @author rahul_kaithwas
+ *
  */
 public class ProfitCalculation {
 

@@ -7,7 +7,7 @@ import java.io.FileReader;
 import java.util.Scanner;
 
 /**
- * @author 841423
+ * @author rahul_kaithwas
  *
  */
 public class SimpleFileRead1 {

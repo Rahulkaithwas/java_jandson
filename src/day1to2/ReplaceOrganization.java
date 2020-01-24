@@ -2,11 +2,7 @@ package day1to2;
 
 import java.util.Scanner;
 
-/**
- * @author sumit kumar
- * @code 02-11
- *
- */
+
 public class ReplaceOrganization {
 
 	public static void main(String[] args) {

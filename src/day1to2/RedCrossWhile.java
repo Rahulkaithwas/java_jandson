@@ -1,13 +1,13 @@
 package day1to2;
 
 import java.util.Scanner;
-
+/**
+ * @author rahul_kaithwas
+ *
+ */
 public class RedCrossWhile {
 
-	/**
-	 * @author diwakar kumar
-	 * @code 02-11
-	 */
+
 	public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);
 		int n=sc.nextInt();

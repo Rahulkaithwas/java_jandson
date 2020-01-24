@@ -1,13 +1,13 @@
 package day1to2;
 
 import java.util.Scanner;
-
+/**
+ * @author rahul_kaithwas
+ *
+ */
 public class LabAllocation {
 
-	/**
-	 * @author sumit kumar
-	 * @code 02-10
-	 */
+
 	public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);
 		int L1=0,L2=0,L3=0;

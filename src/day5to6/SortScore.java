@@ -5,7 +5,7 @@ import java.util.Collections;
 import java.util.Scanner;
 
 /**
- * @author sumit kumar
+ * @author rahul_kaithwas
  * @code 02-17
  *
  */
